@@ -19,7 +19,8 @@ Repository for Election_Analysis Challenge
 
 ## Election-Audit Results
 The analysis of the election shows that:
-- There were 369,711 votes case in the election.  this was determined using a `for` loop to get the total number of rows in the file and then adding the rows together to get a total vote calculation `total_votes += 1`
+- There were 369,711 votes case in the election.  
+    * this was determined using a `for` loop to get the total number of rows in the file and then adding the rows together to get a total vote calculation `total_votes += 1`
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
