@@ -1,4 +1,3 @@
-[election_results.txt](https://github.com/sarcars/Election_Analysis_Challenge/files/7883175/election_results.txt)
 # Election_Analysis_Challenge
 Repository for Election_Analysis Challenge
  
@@ -19,7 +18,7 @@ Repository for Election_Analysis Challenge
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Election-Audit Results
-> [results for this analysis are viewable at election_results.txt] (analysis/election_results.txt) 
+> [results for this analysis are viewable at election_results.txt] [election_results.txt](https://github.com/sarcars/Election_Analysis_Challenge/files/7883175/election_results.txt)
 
 The analysis of the election shows that:
 - There were 369,711 votes case in the election.  
