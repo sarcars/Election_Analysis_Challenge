@@ -18,6 +18,7 @@ Repository for Election_Analysis Challenge
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Election-Audit Results
+> results for this analysis are viewable at election_results.txt (analysis/election_results.txt) 
 The analysis of the election shows that:
 - There were 369,711 votes case in the election.  
      *this was determined using a `for` loop to get the total number of rows in the file and then adding the rows together to get a total vote calculation `total_votes += 1`
@@ -42,6 +43,7 @@ The analysis of the election shows that:
         county_results = (
             f"{county_name}: {countyVote_percentage:.1f}% ({countyVotes:,})\n")`
 - The County with the Largest Turnout was Denver county with 82.8% of total votes
+
 
 ## Election-Audit Summary
 As shown this script is useful for determining some election results for the three counties listed.  This same script could be use for analysis of similiar data on other (potentially larger) elections.  This script could also be modified to
