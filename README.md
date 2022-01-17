@@ -43,8 +43,6 @@ The analysis of the election shows that:
             f"{county_name}: {countyVote_percentage:.1f}% ({countyVotes:,})\n")`
 - The County with the Largest Turnout was Denver county with 82.8% of total votes
 
-!Command_Line_Results.png(/Resources/Command Line results.png)
-
 ## Election-Audit Summary
 As shown this script is useful for determining some election results for the three counties listed.  This same script could be use for analysis of similiar data on other (potentially larger) elections.  This script could also be modified to
 1. do additional analysis of this data including breakdown of results (winner) by county 
